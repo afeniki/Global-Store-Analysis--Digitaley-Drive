@@ -42,11 +42,3 @@ This project involved the end-to-end analysis of a global retail dataset, coveri
 3. Adjust pricing strategy in low-margin markets and discontinue unprofitable SKUs.
 
 4. Develop a VIP loyalty program for top customers to increase repeat high-value purchases.
-
-
-
-ChatGPT said:
-Here’s a shorter, portfolio-friendly version you can use:
-
-Global Superstore Sales & Profitability Analysis
-Developed an interactive Excel dashboard analyzing sales, profit, shipping costs, and discounts across 147 countries. Identified high-performing markets (US & Australia), unprofitable segments (Southeast Asia chairs, certain US cities), and top revenue-generating customers. Delivered actionable recommendations — including shipping optimization, market focus, and product mix adjustments
