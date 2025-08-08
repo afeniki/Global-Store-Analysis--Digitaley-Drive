@@ -1,20 +1,52 @@
-**Key Insights**
+**Project Title:
+Global Superstore Sales & Profitability Analysis Dashboard**
 
-The superstore operates in **147 countries** and has a total sales of over **$12.6 million**. The average profit is **$28.61**, and the average discount is low at only **$0.14**.
+**Project Overview:**
+This project involved the end-to-end analysis of a global retail dataset, covering sales, profit, shipping, and discount performance across 147 countries. Using Excel’s advanced visualization and dashboarding capabilities, I developed an interactive performance monitoring tool to identify high-performing markets, unprofitable segments, and strategic opportunities for growth.
 
-Geographic Performance: The **United States** and **Australia** were the highest profit-earning countries in 2014, with the US having significantly higher profits.
-Product Performance:
-    The **Chairs** sub-category has the highest average shipping cost.
-    The top three product sub-categories by profit are **Phones**, **Chairs**, and **Binders**.
-    The least profitable product category in Southeast Asia is **Chairs**. This suggests a regional issue with this product.
-    **Copiers** and **Phones** are the most valuable customers' purchases, indicated by their high volume.
-Regional Trends: In Australia, the **Chairs** sub-category has the highest average profit. This is a stark contrast to Southeast Asia, where chairs are the least profitable.
-City-Level Performance: **Concord** and **Toledo** in the United States have incurred losses, indicated by their negative average profit. However, Concord has a high average shipping cost and a significant average discount, suggesting potential issues with pricing or logistics.
+**Objectives:**
+1. Assess global sales and profit performance by country, region, and product category.
 
-**Recommendations**
+2. Identify top revenue-generating customers and high-profit product lines.
 
-Investigate Regional Discrepancies: Research the reasons why the **Chairs** sub-category is highly profitable in Australia but not in Southeast Asia. This could be due to differences in pricing, competition, or shipping costs. 
-Optimize Shipping Costs: Implement strategies to reduce the high average shipping cost for the **Chairs** sub-category, potentially by negotiating better rates with carriers or finding alternative suppliers.
-Target High-Performing Products: Capitalize on the success of **Phones** and **Copiers**. Increase marketing efforts for these products and consider expanding their product lines.
-Address Underperforming Locations: Investigate the negative profits in US cities like **Concord** and **Toledo**. Analyze the high shipping costs and discounts in Concord to identify root causes and implement corrective actions, such as adjusting pricing strategies or inventory management.
-Leverage Top-Selling Products: Since **Phones** and **Copiers** are the most valued by customers, consider creating bundled offers or promotions that include these products to drive sales of other items.
+3. Detect unprofitable markets and product segments for corrective action.
+
+4. Provide actionable recommendations to improve profit margins and operational efficiency.
+
+**Key Features of the Dashboard:**
+1. **Global Performance Metrics:** Total sales ($12.64M), average profit, shipping costs, discounts.
+
+2. **Regional & Country Analysis:** Profitability mapping with top and bottom performers.
+
+3. **Product Performance Insights:** Top profit-generating products and least profitable categories.
+
+4. **Customer Value Analysis:** Identification of most valuable customers and purchasing patterns.
+
+
+**Key Insights Delivered:**
+1. The United States and Australia were the most profitable markets, with office furniture and electronics leading product performance.
+
+2. Southeast Asia’s chair category had significant negative profit margins due to high shipping costs and low selling prices.
+
+3. Certain US cities (e.g., Concord, Toledo) showed consistent losses despite high sales volumes.
+
+4. Shipping costs in some product categories were nearly equal to average profits, heavily impacting margins.
+
+5. A small number of high-value customers contributed significantly to total revenue, presenting upsell opportunities.
+
+**Recommendations Implemented:**
+1. Optimize shipping through local sourcing and regional distribution hubs to cut logistics costs.
+
+2. Refocus marketing efforts on high-margin regions and products.
+
+3. Adjust pricing strategy in low-margin markets and discontinue unprofitable SKUs.
+
+4. Develop a VIP loyalty program for top customers to increase repeat high-value purchases.
+
+
+
+ChatGPT said:
+Here’s a shorter, portfolio-friendly version you can use:
+
+Global Superstore Sales & Profitability Analysis
+Developed an interactive Excel dashboard analyzing sales, profit, shipping costs, and discounts across 147 countries. Identified high-performing markets (US & Australia), unprofitable segments (Southeast Asia chairs, certain US cities), and top revenue-generating customers. Delivered actionable recommendations — including shipping optimization, market focus, and product mix adjustments
